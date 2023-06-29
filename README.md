@@ -1,5 +1,5 @@
 <h1>Drop - meditation website</h1> <br>
-Drop is a website for people who are looking for useful meditation content. <br>
+Drop is a two page website for people who are looking for useful meditation content. <br>
 Users of this site can find the contents within it, including audio and interesting readings. The contents are updated and enriched from time to time. <br>
 <br>
 
