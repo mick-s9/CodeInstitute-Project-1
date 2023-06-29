@@ -68,14 +68,14 @@ Users of this site can find the contents within it, including audio and interest
 
 <h1>Validator Testing</h1>
 <p>HTML: no errors were returned when passing through the official W3C Validator</p>
-<p>HTML: no errors were returned when passing through the official Jigsaw Validator</p>
+<p>CSS: no errors were returned when passing through the official Jigsaw Validator</p>
 
-<h3>result from lighthouse test Homepage</h3>
-<p>the low performance is due to the presence of contents (audio) that occupy many megabytes</p>
+<h3>Result from lighthouse test Homepage</h3>
+<p>The low performance is due to the presence of contents (audio) that occupy many megabytes</p>
 
 ![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/979e5452-7159-4b2d-b906-ec7f25f1556d)
 
-<h3>result from lighthouse test About Us page</h3>
+<h3>Result from lighthouse test About Us page</h3>
 
 ![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/61f7905c-3771-4e0e-a50a-52f8dde6ca3f)
 
