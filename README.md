@@ -27,11 +27,13 @@ Users of this site can find the contents within it, including audio and interest
   <li>Audio: they are all audio useful for the process of meditation and the search for a state of inner calm</li>
 
   
-  https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/cad7ee33-4268-4467-99a6-a037d6acd86f
+  ![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/2a618f10-5514-4c73-881f-ed91239db02c)
+
   <li>Read: in the read section you can find interesting readings for concentration, to be read before starting the meditation process</li>
 
   
-  https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/886cb06e-6553-4dbc-837e-fc29e4724017
+  ![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/94bfbc36-634b-497c-929c-c4d22e01c9ce)
+
 </ul>
 <br>
 
