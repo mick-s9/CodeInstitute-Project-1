@@ -25,7 +25,7 @@ Users of this site can find the contents within it, including audio and interest
 <h3>The content section contains two different types of contents:</h3>
 <ul>
   <li>Audio: they are all audio useful for the process of meditation and the search for a state of inner calm</li>
-  ![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/cad7ee33-4268-4467-99a6-a037d6acd86f)
+  https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/cad7ee33-4268-4467-99a6-a037d6acd86f
   <li>Read: in the read section you can find interesting readings for concentration, to be read before starting the meditation process</li>
-  ![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/886cb06e-6553-4dbc-837e-fc29e4724017)
+  https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/886cb06e-6553-4dbc-837e-fc29e4724017
 </ul>  
