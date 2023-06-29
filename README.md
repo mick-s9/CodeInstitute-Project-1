@@ -55,3 +55,16 @@ Users of this site can find the contents within it, including audio and interest
 
 ![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/83c2a330-ade4-4715-b994-6f5c77aadf16)
 
+
+<br>
+
+<h1>Contact Us</h1>
+<p>The contact section has been inserted in the footer and contains the site's email</p>
+
+
+![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/795a4aa8-3ad5-4386-88d2-542a8f8bf331)
+
+<br>
+
+<h1>Credits</h1>
+
