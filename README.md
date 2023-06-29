@@ -66,5 +66,3 @@ Users of this site can find the contents within it, including audio and interest
 
 <br>
 
-<h1>Credits</h1>
-
