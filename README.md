@@ -43,3 +43,15 @@ Users of this site can find the contents within it, including audio and interest
 
 ![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/b8ebcda2-948b-4c0f-b529-8de6e95f385c)
 
+
+<h1>Sign up Form</h1>
+<p>The sign upform contains details of:</p>
+<ul>
+  <li>A choice that asks the user if he wants to be updated on new content entries</li>
+  <li>Age information and email</li>
+  <li>A short message left by the user, if he wants to give advice and useful info for the site to insert the right content</li>
+</ul>
+
+
+![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/83c2a330-ade4-4715-b994-6f5c77aadf16)
+
