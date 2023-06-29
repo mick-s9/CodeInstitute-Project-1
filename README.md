@@ -20,4 +20,11 @@ Users of this site can find the contents within it, including audio and interest
 <br>
 
 ![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/f3607503-6ce4-47d5-9344-059304470576)
+<br>
+<h1The content section contains two different types of contents:</h1>
+<ul>
+  <li>Audio: they are all audio useful for the process of meditation and the search for a state of inner calm</li>
+  ![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/ffc18383-4c43-4e11-b625-d17801694eb4)
 
+  <li></li>
+</ul>  
