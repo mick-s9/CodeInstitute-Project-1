@@ -12,19 +12,26 @@
     <!-- Navbar start -->
     <div class="grid-container">
         <div class="grid-item grid1">
-            <a href="index.html"><img alt="logo" class="containerLogo" src="resources/logoBlack.png"></a>
+            <a href="index.html"><img alt="logo" class="containerLogo" src="images/logoBlack.png"></a>
         </div>
         <div class="grid-item grid2">
         </div>
         <div class="grid-item grid3">
             <a style="text-decoration: none; color: black;" href="aboutUs.html">About Us</a>
         </div>
+        <div class="grid-item grid4">
+            <a style="text-decoration: none; color: black;" href="index.html">Home</a>
+        </div>
+        <div class="grid-item grid5">
+            <a style="text-decoration: none; color: black;" href="signUp.html">Sign up</a>
+        </div>
     </div>
+
 
     <!-- page  start-->
     <div>
         <div class="containerImgDivTopPage">
-            <img alt="image drop" id="imgDrop" class="imgDrop" src="resources/dropImg.jpg">
+            <img alt="image drop" id="imgDrop" class="imgDrop" src="images/dropImg.jpg">
         </div>
         <div class="containerTextTopPage">
             <h2 class="textMeditate">Meditate</h2>
@@ -33,7 +40,7 @@
         <div class="grid-container2">
             <div class="grid-item-M grid-M-1">
                 <div id="imgListen" class="containerImgM">
-                    <img alt="listen" class="listen1 imgChoiceType" src="resources/listen2.png">
+                    <img alt="listen" class="listen1 imgChoiceType" src="images/listen2.png">
                 </div>
                 <div class="itemsSelectionType">
                     Listen
@@ -41,15 +48,15 @@
                 <div id="divContainerAudio" class="showContent">
                     <div class="listAudio">
                         <audio class="itemAudio" controls>
-                            <source src="resources/relaxingMusic1.mp3" type="audio/ogg">
+                            <source src="images/relaxingMusic1.mp3" type="audio/ogg">
                             Your browser does not support the audio element.
                         </audio>
                         <audio class="itemAudio" controls>
-                            <source src="resources/relaxingMusic2.mp3" type="audio/ogg">
+                            <source src="images/relaxingMusic2.mp3" type="audio/ogg">
                             Your browser does not support the audio element.
                         </audio>
                         <audio class="itemAudio" controls>
-                            <source src="resources/relaxingMusic3.mp3" type="audio/ogg">
+                            <source src="images/relaxingMusic3.mp3" type="audio/ogg">
                             Your browser does not support the audio element.
                         </audio>
                     </div>
@@ -57,7 +64,7 @@
             </div>
             <div class="grid-item-M grid-M-2" style="margin-top: 20px;">
                 <div id="imgRead" class="containerImgM">
-                    <img alt="read" class="read1 imgChoiceType" src="resources/read1.png">
+                    <img alt="read" class="read1 imgChoiceType" src="images/read1.png">
                 </div>
                 <div class="itemsSelectionType">
                     Read
@@ -125,48 +132,29 @@
                                 I feel free. I feel at home.<br>
                             </div>
                             <div class="divContainerDrop" style="width: 30%; margin-top: 20px;">
-                                <img alt="drop icon logo" style="width: 32%;" src="resources/JustDrop.png">
+                                <img alt="drop icon logo" style="width: 32%;" src="images/JustDrop.png">
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="containerForm">
-                    <div>
-                        <h1 class="h1SignUp">Sign Up!</h1>
-                    </div>
-                    <form class="formSignUp">
-                        <fieldset id="IdFieldset">
-                            <legend>Do you want to receive an email for the new contents?<span>*</span></legend>
-                            <input type="radio" required name="driver" id="r1" value="yes"><label for="r1">Yes</label>
-                            <input type="radio" required name="driver" id="r2" value="no"><label for="r2">No</label>
-                        </fieldset>
-                        <p>
-                            <label for="inputAge">How old are you?</label>
-                            <input id="inputAge" type="number" min="12" max="120" step="1" name="age">
-                        </p>
-                        <p>
-                            <label for="t2">What's your email address?</label>
-                            <input required type="email" id="t2" name="email">
-                        </p>
-                        <p>
-                            <label for="t3">Leave a short message</label>
-                            <textarea id="t3" name="msg" maxlength="140" rows="5"></textarea>
-                        </p>
-                        <p>
-                            <button>Submit</button>
-                        </p>
-                    </form>
                 </div>
             </div>
         </div>
     </div>
     <footer>
-        <div style="font-size: 30px; margin-top: 20px; border-bottom: 1px solid white;">
-            Contact Us
+        <div>
+            <a href="https://instagram.com/?lang=it"> <img class="img-ig" src="./Images/ig.png"> </a>
         </div>
-        <p>For any question: <br>
-            <a style="text-decoration: none; color: white;" href="mailto:drop@email.com">drop@email.com</a>
-        </p>
+        <div class="container-text-footer">
+            <div style="font-size: 30px; margin-top: 20px; border-bottom: 1px solid white;">
+                Contact Us
+            </div>
+            <p>For any question: <br>
+                <a style="text-decoration: none; color: white;" href="mailto:drop@email.com">drop@email.com</a>
+            </p>
+        </div>
+        <div>
+            <a href="https://twitter.com/?lang=it"> <img class="img-twitter" src="./Images/twitter.png"></a>
+        </div>
     </footer>
 </body>
 
