@@ -79,3 +79,29 @@ Users of this site can find the contents within it, including audio and interest
 
 ![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/61f7905c-3771-4e0e-a50a-52f8dde6ca3f)
 
+<h1>Deployment</h1>
+
+<p>The site was deployed to GitHub Pages. The steps to deploy are as follows:</p>
+    <ul>
+        <li>In the GitHub repository, navigate to the Settings tab</li>
+        <li>From the source section drop-down menu, select the Master Branch</li>
+        <li>Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.</li>
+    </ul>
+
+<p>The live link can be found <a href="https://mick-s9.github.io/CodeInstitute-Project-1/">here</a>.</p>
+
+
+<h1>Design</h1>
+<h2>Colour Scheme</h2>
+<p>The main colours used are beige</p>
+    
+<h2>Typography</h2>
+<p>The font used in the website was Urbanist </p>
+
+<h1>Credits</h1>
+<h2>Content</h2>
+<p>The text was taken from this website: https://www.trinitytherapeutics.ca/meditation-to-calm-the-mind</p>
+    
+<h2>Media</h2>
+<p>All the audio was taken from this website: https://pixabay.com/music/search/genre/meditation/spiritual/</p>
+
