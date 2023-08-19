@@ -3,7 +3,7 @@ Drop is a two page website for people who are looking for useful meditation cont
 Users of this site can find the contents within it, including audio and interesting readings. The contents are updated and enriched from time to time. <br>
 <br>
 
-![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/41747ef6-fceb-48b5-b47a-54597f542867) <br>
+
 
 
 <br>
@@ -14,7 +14,7 @@ Users of this site can find the contents within it, including audio and interest
 </ul>  
 <br>
 
-![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/11222756-b9be-4603-a1e5-2159e282a47f)
+![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/41747ef6-fceb-48b5-b47a-54597f542867) <br>
 
 <h1>Header</h1> <br>
 <p>The header of the page is characterized by a single image, which shows a drop, to recall the name and the logo of the site and the concept of calm associated with it</p>
