@@ -253,10 +253,6 @@ input:focus:invalid {
   width: 100%;
 }
 
-.container-about-us-page{
-  
-}
-
 @media only screen and (max-width: 1000px) {
   .top-right {
     font-size: 60px;
