@@ -98,8 +98,6 @@ Users of this site can find the contents within it, including audio and interest
 <h2>Typography</h2>
 <p>The font used in the website was Urbanist </p>
 
-<p>The live link can be found <a href="https://mick-s9.github.io/CodeInstitute-Project-1/">here</a>.</p>
-
 <h1>Credits</h1>
 <h2>Content</h2>
 <p>The text was taken from this website: https://www.trinitytherapeutics.ca/meditation-to-calm-the-mind</p>
