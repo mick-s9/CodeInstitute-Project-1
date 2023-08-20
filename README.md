@@ -104,6 +104,6 @@ Users of this site can find the contents within it, including audio and interest
     
 <h2>Media</h2>
 <p>All the audio was taken from this website: https://pixabay.com/music/search/genre/meditation/spiritual/</p>
-<p>All the audio was taken from this website: https://www.pexels.com/it-it/ </p>
+<p>All the images was taken from this website: https://www.pexels.com/it-it/ </p>
 
 
