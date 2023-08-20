@@ -14,7 +14,8 @@ Users of this site can find the contents within it, including audio and interest
 </ul>  
 <br>
 
-![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/41747ef6-fceb-48b5-b47a-54597f542867) <br>
+![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/b34eb62d-9f25-4db2-96fd-5839c57aae8f)
+
 
 <h1>Header</h1> <br>
 <p>The header of the page is characterized by a single image, which shows a drop, to recall the name and the logo of the site and the concept of calm associated with it</p>
