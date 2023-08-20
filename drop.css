@@ -389,6 +389,18 @@ input:focus:invalid {
     font-size: 27px;
   }
 
+  .grid3 {
+    font-size: 14px;
+  }
+
+  .grid4 {
+    font-size: 15px;
+  }
+
+  .grid5 {
+    font-size: 15px;
+  }
+
   .top-right {
     font-size: 20px;
   }
@@ -409,5 +421,19 @@ input:focus:invalid {
 @media only screen and (max-width: 360px) {
   .grid-container {
     grid-template-columns: 18% 15% 26% 21% 21%;
+  }
+}
+
+@media only screen and (max-width: 300px) {
+  .grid3 {
+    font-size: 13px;
+  }
+
+  .grid4 {
+    font-size: 14px;
+  }
+
+  .grid5 {
+    font-size: 14px;
   }
 }
