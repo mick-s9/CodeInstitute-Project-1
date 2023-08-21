@@ -9,7 +9,7 @@ Users of this site can find the contents within it, including audio and interest
 <br>
 <h1>Features</h1> <br>
 <ul>
-  <li>the name of the site with the logo is shown in the navigation bar at the top left. Clicking it takes you back to the homepage</li>
+  <li>the name of the site with the logo is shown in the navigation bar at the top left. Clicking it takes you back to the homepage. Also there are three items in the navigation bar: Home, About Us, Sign Up</li>
   <li>the other navigation link is on the right. Clicking on "About Us" takes you to the page dedicated to a brief explanation of the site</li>
 </ul>  
 <br>
