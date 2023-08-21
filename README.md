@@ -3,7 +3,7 @@ Drop is a two page website for people who are looking for useful meditation cont
 Users of this site can find the contents within it, including audio and interesting readings. The contents are updated and enriched from time to time. <br>
 <br>
 
-
+![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/b34eb62d-9f25-4db2-96fd-5839c57aae8f)
 
 
 <br>
@@ -14,7 +14,7 @@ Users of this site can find the contents within it, including audio and interest
 </ul>  
 <br>
 
-![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/b34eb62d-9f25-4db2-96fd-5839c57aae8f)
+![image](https://github.com/mick-s9/CodeInstitute-Project-1/assets/65968792/6be6d55a-ff9d-471d-b4cf-663a807bf71b)
 
 
 <h1>Header</h1> <br>
